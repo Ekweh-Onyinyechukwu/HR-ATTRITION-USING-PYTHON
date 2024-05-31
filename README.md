@@ -1,9 +1,15 @@
 # HR-ATTRITION-USING-PYTHON
-Certainly! Here’s a LinkedIn post write-up highlighting your experience and the process of your first project during your internship at Merskill:
+![](over.PNG)
+## DISCLAIMER:
+All dataset and reports do not represent any school,institution or country but just a dummy dataset to demostrate capabilities of tableau
 
----
+## INTRODUCTION:
+![](over.PNG)
 
-🌟 **Thrilled to Share My First Project at Merskill!** 🌟
+ ## PROBLEM STATEMENT:
+
+
+
 
 I am excited to announce that I have completed my first project during my internship at Merskill, and what an incredible journey it has been! This project focused on HR attrition analysis, and I had the opportunity to dive deep into the data using Python. The experience was both challenging and rewarding, and I am eager to share a bit about how I approached this project.
 
