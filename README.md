@@ -32,9 +32,10 @@ The project began with a comprehensive dataset containing various attributes rel
    - Compiled the findings and insights into a comprehensive report.
    - Presented the results using clear and impactful visualizations to convey the story behind the data.
   
-   ## Hbelow is the python file
-![](HR ATTRITION ANALYSIS.ipynb)
-
-Throughout this project, I leveraged the power of Python to perform data manipulation, analysis, and visualization. The process was not only educational but also incredibly exciting as I got to see firsthand how data-driven decisions can be made in a corporate setting.
+   Throughout this project, I leveraged the power of Python to perform data manipulation, analysis, and visualization. The process was not only educational but also incredibly exciting as I got to see firsthand how data-driven decisions can be made in a corporate setting.
 
 Feel free to customize this further to better fit your personal style and any additional details you might want to include.
+  
+   ### to check out the python file click  [here](http://localhost:8888/notebooks/HR%20ATTRITION%20ANALYSIS.ipynb))
+
+
