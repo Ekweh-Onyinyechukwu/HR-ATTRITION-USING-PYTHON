@@ -36,6 +36,6 @@ The project began with a comprehensive dataset containing various attributes rel
 
 Feel free to customize this further to better fit your personal style and any additional details you might want to include.
   
-   ### to check out the python file click  [here](http://localhost:8888/notebooks/HR%20ATTRITION%20ANALYSIS.ipynb))
+   ### to check out the python file click the above file with the name (HR ATTRITION ANALYSIS.ipynb)
 
 
